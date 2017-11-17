@@ -1,0 +1,14 @@
+{
+    "name": "What's Missing? (Lightning Mode)",
+    "template":"phaser",
+    "exp_id": "whats-missing-lightning",
+    "contributors": [
+                     "Jonathan Nicholas",
+                     "Christian Battista",
+                     "Vanessa Sochat"
+                    ],
+    "time":10,
+    "instruction": "Follow the instructions to play the game.",
+    "description": "A fun game to test problem solving skills.",
+    "url": "https://www.github.com/expfactory-experiments/whats-missing-lightning"
+}
